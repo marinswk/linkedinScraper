@@ -6,7 +6,7 @@ fake-useragent==0.1.11
 ipython==7.13.0
 ipython-genutils==0.2.0
 jedi==0.16.0
-lxml==4.5.0
+lxml==4.6.3
 numpy==1.18.2
 pandas==1.0.3
 parsel==1.5.2
